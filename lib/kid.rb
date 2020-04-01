@@ -10,6 +10,7 @@ class Kid
 
     def initialize(name)
         @name = name
+        #rando comment
     end
 
 end
